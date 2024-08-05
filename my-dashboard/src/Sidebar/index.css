@@ -1,0 +1,30 @@
+                                  
+.sidebar{
+    background-color: #070E50;
+    width: 315px;
+    z-index: 1; 
+    float: left;
+
+} 
+.sidebar-item{
+    display: flex;
+    padding-bottom:20% ;
+    gap: 10%;
+    padding-left: 10%;
+}
+h2{
+    color:whitesmoke;
+}
+
+.loopandwear{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 45%;
+    padding-left: 25%;
+
+}
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
