@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+// import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Dashboard from './Dashboard';
+import Sidebar from './Sidebar';
+// import Sidebar from './Sidebar';
+// import Rewards from './Rewards';
+// import Donations from './Donations';
+// import Logout from './Logout';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+    return (
+        <div>
+    <Sidebar/>
+     <Dashboard/>
+        </div>
+
+      
+        // <Router>
+        //     <div className="app">
+        //         <Sidebar />
+        //         <Switch>
+        //             <Route path="/dashboard">
+        //                 <Dashboard />
+        //             </Route>
+        //             <Route path="/rewards">
+        //                 <Rewards />
+        //             </Route>
+        //             <Route path="/donations">
+        //                 <Donations />
+        //             </Route>
+        //             <Route path="/logout">
+        //                 <Logout />
+        //             </Route>
+        //         </Switch>
+        //     </div>
+        // </Router>
+    );
+};
 
 export default App;

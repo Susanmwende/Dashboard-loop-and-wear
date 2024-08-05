@@ -1,0 +1,243 @@
+                                  
+.sidebar{
+    background-color: #070E50;
+    width: 310px;
+    z-index: 1; 
+    float: left;
+
+} 
+.sidebar-item{
+    display: flex;
+    padding-bottom:20% ;
+    gap: 10%;
+    padding-left: 10%;
+}
+
+h2{
+    color:whitesmoke;
+}
+
+.loopandwear{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 45%;
+    padding-left: 25%;
+
+}
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+#rewardsection h2{
+    color: #000;
+}
+#rewardsection{
+    display: flex;
+  /* padding-left: 40%; */
+}
+
+#textbox4 p {
+    color:white;
+    font-weight:800 ;
+    font-size: 24px;
+
+}
+
+#textbox4{
+    width: 300px;
+    height: 130px;
+    border-radius: 4%;
+    border:solid px;
+    background-color: #7DAB08;
+    text-align: center;
+
+}
+#dashboard{
+    padding-left:11%;
+}
+
+   
+
+.loopandwear{
+    width: 200px;
+    height: 200px;
+    /* margin-bottom: 45%;
+    padding-left: 25%; */
+
+}
+.Susan{
+    height: 80px;
+    width: 80px;
+    border-radius:50%;
+    margin-top: 10px;
+}
+.proffession{
+    
+  
+    display: flex;
+    padding-left: 65%;
+    
+}
+.welcome{
+   margin-left: 1%;
+}
+#user{
+   display: flex;
+   padding-top: 1%;
+
+}
+
+.introduction{
+    padding: 2%;
+}
+.image{
+    display: flex;
+}
+#main{
+
+    display: flex;
+    gap: 30%;
+}
+.groups{
+    padding-left: 20%;
+ 
+}
+
+.bell{
+    width: 55px;
+    height: 60px;
+    padding-top: 16px;
+}
+
+
+#dashboard-text{
+   padding-left: 10px; 
+}
+#all-textboxes{
+    margin-top: 1%;
+    justify-content: center;
+
+
+}
+#textbox1{
+   width: 328px;
+   height: 195px;
+   border-radius: 4%;
+   margin: 40px;
+   background-color: #7DAB08;
+
+}
+#textbox2{
+    width: 328px;
+    height: 195px;
+    border-radius: 5%;
+    margin: 40px;
+    background-color: #7DAB08;
+    
+    
+    
+}
+#textbox3{
+    width: 328px;
+    height: 195px;
+    border-radius: 4%;
+    border:solid px;
+    margin: 40px;
+    background-color: #7DAB08;
+}
+#all-textboxes{
+    display: flex;
+    gap: 10%;
+     justify-content: center; 
+    
+}
+#textbox1 p{
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    color: aliceblue;
+  
+
+}
+#textbox2 p{
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    color: aliceblue;
+  
+
+}
+#textbox3 p{
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    color: #f4e3e3;
+  
+
+}
+.name{
+color: #000;
+font-size: 24px;
+font-weight: 600;
+}
+h3 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 32px;
+}
+#heading{
+    display: flex;
+    gap: 65%;
+   
+}
+#heading h2{
+    color: #000;
+padding-left: 2%;
+
+}
+
+#graph-flex{
+    display: flex;
+    gap:10%;
+    padding-top: 1%;
+    padding-right: 4%;
+   
+}
+#graph {
+    flex: 2;
+    background-color: white;
+    /* padding: 20px; */
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#rewardsection h2{
+    color: #000;
+}
+#rewardsection{
+    display: flex;
+    gap: 47%;
+   
+ 
+}
+
+#textbox4 p {
+    color:white;
+    font-weight:800 ;
+    font-size: 24px;
+
+}
+
+#textbox4{
+    width: 300px;
+    height: 150px;
+    border-radius: 4%;
+    border:solid px;
+    background-color: #7DAB08;
+    text-align: center;
+
+}
+
+   
